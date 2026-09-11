@@ -1,0 +1,16 @@
+{
+  "name": "mycalculator",
+  "version": "1.0.0",
+  "description": "1) Simple Calculator \r > (focusing on user button—input, basic operations, and functions).\\\r > (made TypeScript)\r 2) Text Guessing Game\r > (focusing on conditional logic, loops, and random number generation).\r 3) Hangman\r > (focusing on string manipulation, lists/arrays, and tracking state).\r 4) Tic-Tac-Toe\r > (focusing on 2D grids, win-condition logic, and two-player loop control).\r 5) Text Adventure (Interactive Fiction)\r > (focusing on object/dictionary mapping, dynamic user input parsing, and complex state management).\r ---\r ## Learning TypeScript",
+  "main": "calc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
